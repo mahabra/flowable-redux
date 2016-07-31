@@ -1,6 +1,6 @@
 {
   "name": "flowable-redux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Allows to use Redux principles with flowable.js",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/morulus/flowable-redux/issues"
   },
-  "homepage": "https://github.com/morulus/flowable-redux#readme"
+  "homepage": "https://github.com/morulus/flowable-redux#readme",
+  "dependecies": {
+    "flowable": "^0.0.1"
+  }
 }
